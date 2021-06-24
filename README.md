@@ -65,7 +65,7 @@ class ChessBoard(object):
 
 Here's what the bitboards look like visually at the beginning of a game:
 
-![Beginning](http://chessprogramming.wikispaces.com/file/view/bitboard.gif/158504035/bitboard.gif)
+[Click here to see the beginning](http://chessprogramming.wikispaces.com/file/view/bitboard.gif/158504035/bitboard.gif)
 
 Our implementation maps squares to bits as described [here](https://github.com/TG-KRISH/Chess-Engine). For instance in the image above, the white pawns bitboard would be the 64-bit value `0b0000000000000000000000000000000000000000000000001111111100000000`.
 
