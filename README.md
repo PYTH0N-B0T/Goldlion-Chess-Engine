@@ -10,7 +10,7 @@ Check out a sample game I (white) played against Goldlion (black):
   <img src="https://i.imgur.com/L9evkOR.gif">
 </p>
 
-You can see the engine plays okay up until the midgame when it loses its queen to a discovered check. This was caused by a combination of shallow search depth and the horizon effect, which we'll discuss later. Nonetheless, the engine usually does manage to win against weaker players (sorry Dad!).
+You can see the engine plays okay up until the midgame when it loses its queen to a discovered check. This was caused by a combination of shallow search depth and the horizon effect, which we'll discuss later. Nonetheless, the engine usually is made for human means I made this engine human-friendly it can win by humans.
 
 Note that I haven't implemented castling or en passant moves yet, as these complicate the code and are a bit of a hassle to get working. My description will pretend these moves don't exist. Eventually I'll try to add them in.
 
