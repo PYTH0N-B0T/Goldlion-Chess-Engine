@@ -1,7 +1,7 @@
 # Goldlion
 A chess engine created from Python
 
-## *Cloning*
+## **Cloning**
 run this command on CMD(Command prompt) `git clone https://github.com/PYTH0N-B0T/Goldlion-Chess-Engine`
 
 ## Overview
