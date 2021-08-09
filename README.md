@@ -17,7 +17,7 @@ You can see the engine plays okay up until the midgame when it loses its queen t
 
 Note that I haven't implemented castling or en passant moves yet, as these complicate the code and are a bit of a hassle to get working. My description will pretend these moves don't exist. Eventually I'll try to add them in.
 
-I chose to write this in Python since it was more of a learning exercise than an attempt at a competitive engine. Obviously the downside of Python for something performance intensive is that it's pretty slow. If I were making a serious engine I would likely rewrite it in something like C++. That said, using Python was an interesting challenge since I had to really pay attention to efficiency to even search up to a shallow depth. 
+I chose to write this in Python since it was more of a learning exercise than an attempt at a competitive engine. Obviously the downside of Python for something performance intensive is that it's pretty slow. 
 
 ## Chess engine basics
 
